@@ -84,4 +84,3 @@ C:\Users\kikohiho\documents\visual studio 2015\Projects\Audity\Audity\Audity.Dro
 C:\Users\kikohiho\documents\visual studio 2015\Projects\Audity\Audity\Audity.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\kikohiho\documents\visual studio 2015\Projects\Audity\Audity\Audity.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
 C:\Users\kikohiho\documents\visual studio 2015\Projects\Audity\Audity\Audity.Droid\obj\Debug\Audity.Droid.dll.mdb
-C:\Users\kikohiho\documents\visual studio 2015\Projects\Audity\Audity\Audity.Droid\bin\Debug\Audity.Droid.dll.mdb

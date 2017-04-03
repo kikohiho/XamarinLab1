@@ -26,5 +26,43 @@ C:\Users\kikohiho\Documents\Visual Studio 2015\Projects\Audity\Audity\Audity\obj
 C:\Users\kikohiho\Documents\Visual Studio 2015\Projects\Audity\Audity\Audity\obj\Debug\Audity.Views.ReceiptsLogPage.xaml.g.cs
 C:\Users\kikohiho\documents\visual studio 2015\Projects\Audity\Audity\Audity\obj\Debug\Audity.dll.mdb
 C:\Users\kikohiho\documents\visual studio 2015\Projects\Audity\Audity\Audity\bin\Debug\Audity.dll.mdb
-C:\Users\kikohiho\documents\visual studio 2015\Projects\Audity\Audity\Audity\obj\Debug\Audity.dll.mdb
-C:\Users\kikohiho\documents\visual studio 2015\Projects\Audity\Audity\Audity\bin\Debug\Audity.dll.mdb
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\Audity.dll.config
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\Audity.dll
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\Audity.pdb
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\Plugin.Connectivity.dll
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\System.Net.Http.dll
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.xml
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\Newtonsoft.Json.xml
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\Plugin.Connectivity.xml
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\System.Net.Http.xml
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\obj\Debug\Audity.csproj.App.config
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\obj\Debug\Audity.csprojResolveAssemblyReference.cache
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\obj\Debug\Audity.Views.ReceiptsLogPage.xaml.g.cs
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\obj\Debug\Audity.Views.HomePage.xaml.g.cs
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\obj\Debug\Audity.dll
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\obj\Debug\Audity.pdb
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\obj\Debug\Audity.dll.mdb
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\Audity.dll.mdb
