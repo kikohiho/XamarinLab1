@@ -5,7 +5,7 @@
   <StackLayout>
     <Button></Button>
     <ActivityIndicator IsRunning="" IsVisible=""></ActivityIndicator>
-    <ListView x:Name="receiptsListView">
+    <ListView x:Name="receiptsListView" ItemSource="{Binding Receipts}">
       <ListView.ItemTemplate>
         <DataTemplate>
           <TextCell Text="{Binding titulo}" Detail="{Binding costo}" />
