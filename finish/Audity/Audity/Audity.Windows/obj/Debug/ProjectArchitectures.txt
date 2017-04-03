@@ -1,2 +1,2 @@
-C:\Users\kikohiho\Documents\Visual Studio 2015\Projects\Audity\Audity\Audity.Windows\Audity.Windows.csproj;neutral
-C:\Users\kikohiho\Documents\Visual Studio 2015\Projects\Audity\Audity\Audity\Audity.csproj;neutral
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity.Windows\Audity.Windows.csproj;neutral
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\Audity.csproj;neutral

@@ -66,3 +66,5 @@ C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\obj\Debug\
 C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\obj\Debug\Audity.pdb
 C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\obj\Debug\Audity.dll.mdb
 C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\Audity.dll.mdb
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\obj\Debug\Audity.dll.mdb
+C:\Users\t-rivila\Documents\XamarinLab #1\finish\Audity\Audity\Audity\bin\Debug\Audity.dll.mdb
